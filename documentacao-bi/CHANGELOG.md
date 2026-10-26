@@ -6,6 +6,7 @@ Plano e diagnóstico como peças de primeira classe no modo projeto existente, m
 
 ### Adicionado
 
+- `LICENSE` (MIT) na raiz do repositório e `license` no `plugin.json`.
 - `modelos/migracao/diagnostico.md` e `modelos/migracao/plano-de-migracao.md`: modelos copiados para `.agents/`. O plano traz blocos e passos com nível e "quem executa", tabela de decisões, "Situação de execução" (linha do tempo do que foi feito e do que falta), revisões, "fora deste plano" e decisões abertas com proposta do agente.
 - `modo-projeto-existente.md`: o agente atualiza a "Situação de execução" depois de cada passo e confere no Git o que o usuário executou; um passo, um commit, depois a validação; tabela "documentação anterior × projeto" ao adaptar páginas; lista "o que se perde" antes de apagar uma página antiga; linha de base por hash quando a tag não é autorizada; conferência com `git diff -M --numstat` quando a mudança de lugar vem com renomeações.
 - `armadilhas.md`: tag não autorizada, `--strict` com páginas não commitadas, mudança de lugar com renomeação, pasta intermediária em `src/`, guias ocultas em uso, projeto sem área de negócio e medidas citadas em visuais que não existem no modelo.

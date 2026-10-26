@@ -1,6 +1,8 @@
 # bi-documentacao
 
-Repositório: <https://github.com/Ricardo-Filgueiras/bi-documentacao> (privado)
+Repositório: <https://github.com/Ricardo-Filgueiras/bi-documentacao>
+
+Licença: [MIT](LICENSE).
 
 Skill e plugin do Claude Code para criar e manter a documentação de projetos Power BI (PBIP) num portal único em MkDocs. Tudo o que é preciso está aqui, na forma de uma **skill**: `documentacao-bi/` (versão 0.3.1, em teste).
 
