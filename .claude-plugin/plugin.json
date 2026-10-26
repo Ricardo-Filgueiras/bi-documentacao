@@ -1,0 +1,22 @@
+{
+  "name": "documentacao-bi",
+  "version": "0.3.1",
+  "description": "Conduz a documentação de projetos Power BI (PBIP) num portal único MkDocs: gera modelo de dados, medidas DAX e ETL Python direto dos arquivos e deixa o texto de negócio para revisão humana.",
+  "author": {
+    "name": "Time de BI"
+  },
+  "repository": "https://github.com/Ricardo-Filgueiras/bi-documentacao",
+  "homepage": "https://github.com/Ricardo-Filgueiras/bi-documentacao",
+  "keywords": [
+    "power-bi",
+    "pbip",
+    "tmdl",
+    "dax",
+    "documentacao",
+    "mkdocs",
+    "bi"
+  ],
+  "skills": [
+    "./documentacao-bi"
+  ]
+}

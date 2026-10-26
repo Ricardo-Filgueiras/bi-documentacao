@@ -1,0 +1,5 @@
+# Fins de linha iguais no Windows e no CI. Os arquivos .tmdl da fixture de testes usam tabulação.
+* text=auto eol=lf
+*.tmdl text eol=lf
+*.py text eol=lf
+*.md text eol=lf
